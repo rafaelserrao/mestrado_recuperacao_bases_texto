@@ -1,0 +1,8 @@
+bm25s
+PyStemmer
+pytrec_eval-terrier
+datasets
+pandas
+scipy
+tabulate
+pytest
